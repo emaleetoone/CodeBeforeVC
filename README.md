@@ -1,2 +1,1 @@
-- this is a bullet
-- this is a change 
+# example of creating code first and then add version control 
